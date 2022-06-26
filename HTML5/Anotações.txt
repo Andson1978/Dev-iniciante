@@ -1,3 +1,3 @@
 Anotações do Curso de HTML 5
-para que visualisar este repositório estou com dificuldade em vincular o css no html, 
-se alguém quise me ajudar fique a vontade. 
+para que visualisar este repositório estou com dificuldade em vincular o css no html, se alguém quise me ajudar fique a vontade. 
+também estou com problemas com as minhas imagens, mas estou trabalhando nisso.
